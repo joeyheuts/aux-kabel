@@ -35,4 +35,5 @@ Aux - Tulp
 Aux - USB
 
 #Snel online bestellen
+Bestel uw auxkabel nu snel op onze website met een groot assortiment AUX kabels
 http://www.kabeltjeskopen.nl/
