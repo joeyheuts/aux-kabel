@@ -1,4 +1,4 @@
-# aux-kabel
+# aux kabel
 Opzoek naar een AUX kabel om uw geluidsapparatuur aan te sluiten?
 
 Koop nu een 3,5mm jack kabel, beschikbaar in verschillende lengtes:
@@ -34,4 +34,5 @@ Aux - speaker
 Aux - Tulp
 Aux - USB
 
+#Snel online bestellen
 http://www.kabeltjeskopen.nl/
